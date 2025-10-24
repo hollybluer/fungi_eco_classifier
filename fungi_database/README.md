@@ -2,6 +2,8 @@ README
 
 Preprocessing data step is based on data download from GlobalFungi Database, as published by Větrovský et al (2020; doi.org/10.1038/s41597-020-0567-7). 
 
+Fully Trained Model can be downloaded here -> https://drive.google.com/drive/folders/1JygSxeQPT9KsucD6tJCKgmAZ3reHjwPS?usp=drive_link
+
 ##Fungal Community Prediction Model
 This model is created to train a pipeline for the prediction of dominant fungi in a community based on soil, plant, and ecosystem data.
 
@@ -63,4 +65,5 @@ Ensure your data has the same metadata columns required for efficient prediction
 Větrovský, T., Morais, D., Kohout, P. et al. GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies. Sci Data 7, 228 (2020). https://doi.org/10.1038/s41597-020-0567-7
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
