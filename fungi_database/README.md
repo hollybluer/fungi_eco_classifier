@@ -59,6 +59,8 @@ The predict.py script will allow for sample data to predict the dominant species
 The pretrained pipeline contains the preprocessing step.
 Ensure your data has the same metadata columns required for efficient predictions. The greater quantity of missing columns, the less accurate the output. When additional columns not present in training data are included, Python warnings will be present, but these are not significant.
 
+The pretrained pipeline can be downloaded here: https://drive.google.com/file/d/1PvOpHTzBQNdUM5R4J3-yo99QhvW3r_9Y/view?usp=drive_link 
+
 ##Citation
 Větrovský, T., Morais, D., Kohout, P. et al. GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies. Sci Data 7, 228 (2020). https://doi.org/10.1038/s41597-020-0567-7
 
